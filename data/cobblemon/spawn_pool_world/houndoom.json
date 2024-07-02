@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [   
+    {
+       "id": houndoom1",
+       "pokemon": "houndoom",
+       "presets": [
+           "nether_structures"
+       ],
+       "type": "pokemon",
+       "context": "grounded",
+       "bucket": "uncommon",
+       "level": "24-40",
+       "weight": 1,
+       "condition": {
+           "biomes": [
+               "#minecraft:is_nether"
+           ]
+       }
+    },
+    {
+    "id": "houndoom-2",
+    "pokemon": "houndoom",
+    "presets": [
+        "natural"
+    ],
+    "type": "pokemon",
+    "context": "grounded",
+    "bucket": "rare",
+    "level": "24-40",
+    "weight": 0.5,
+    "condition": {
+        "biomes": [
+            "minecraft:nether_wastes"
+        ]
+       }
+     }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "target": "cobblemon:palpitoad",
+    "implemented": true,
+ "behaviour": {
+    "moving": {
+      "swim": {
+        "swimSpeed": 1,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  }
+}

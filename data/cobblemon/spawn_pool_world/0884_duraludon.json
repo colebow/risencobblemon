@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "duraludon-1",
+            "pokemon": "duraludon_gmax",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "70",
+            "weight": 5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                 "structures": [
+                    "nestgmax:nextgmax"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "portraitScale": 1,
+    "portraitTranslation": [
+        -1.9,
+        1.8,
+        0
+    ],
+    "profileScale": 0.3,
+    "profileTranslation": [
+        0,
+        1.5,
+        0
+    ],
+ "animations": {
+   "cry": "q.bedrock_stateful('eternatus', 'cry')",
+   "recoil": "q.bedrock_stateful('eternatus', 'recoil')",
+   "physical": "q.bedrock_primary('eternatus', 'physical', q.curve('symmetrical_wide'))",
+   "special": "q.bedrock_primary('eternatus', 'special', q.curve('symmetrical_wide'))",
+   "status": "q.bedrock_primary('eternatus', 'status', q.curve('symmetrical_wide'))"
+ },
+    "poses": {
+        "standing": {
+            "poseName": "standing",
+            "transformTicks": 10,
+            "poseTypes": [
+                "STAND",
+                "NONE",
+                "PORTRAIT",
+                "PROFILE",
+		"HOVER"
+            ],
+            "animations": [
+                "q.bedrock('eternatus', 'ground_idle')"
+            ]
+        },
+        "walking": {
+            "poseName": "walking",
+            "transformTicks": 10,
+            "poseTypes": [
+                "WALK",
+		"FLY"
+            ],
+            "animations": [
+                "q.bedrock('eternatus', 'ground_walk')"
+            ]
+        }
+    }
+}

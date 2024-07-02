@@ -1,0 +1,30 @@
+{
+    "target": "cobblemon:milotic",
+    "implemented": true,
+ "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2,
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": .5,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    }
+  },
+  "evolutions": [
+  {
+    "id": "milotic_megamilotic",
+    "variant": "item_interact",
+    "result": "megamilotic",
+    "consumeHeldItem": false,
+    "requirements": [{
+      "variant": "held_item",
+      "itemCondition": "lackingmegas:key_stone"
+    }],
+    "requiredContext": "lackingmegas:mega_ring"
+  }
+]
+}

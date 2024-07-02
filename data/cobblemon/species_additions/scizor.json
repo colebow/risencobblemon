@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:scizor",
+    "implemented": true,
+  "evolutions": [
+  {
+    "id": "scizor_megascizor",
+    "variant": "item_interact",
+    "result": "megascizor",
+    "consumeHeldItem": false,
+    "requirements": [{
+      "variant": "held_item",
+      "itemCondition": "lackingmegas:key_stone"
+    }],
+    "requiredContext": "lackingmegas:mega_ring"
+  }
+]
+}

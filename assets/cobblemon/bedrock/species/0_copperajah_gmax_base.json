@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:copperajah_gmax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:copperajah_gmax",
+      "model": "cobblemon:copperajah_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/copperajah/copperajah_gmax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "poser": "cobblemon:copperajah_gmax",
+      "model": "cobblemon:copperajah_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/copperajah/copperajah_gmax.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "pokemon.bergmite.ambient": {
+        "sounds": [
+            "cobblemon:pokemon/bergmite/bergmite_ambient"
+        ]
+    },
+    "pokemon.avalugg.ambient": {
+        "sounds": [
+            "cobblemon:pokemon/avalugg/avalugg_ambient"
+        ]
+    },
+    "pokemon.dragapult.cry": {
+        "sounds": [
+            "cobblemon:pokemon/dragapult/dragapult_cry"
+        ]
+    },
+    "pokemon.roaringmoon.cry": {
+        "sounds": ["cobblemon:pokemon/roaringmoon/roaringmoon_cry.ogg"]
+    },
+    "pokemon.cosmog.cry": {
+        "sounds": ["cobblemon:pokemon/cosmog/cosmog_cry.ogg"]
+    },
+    "pokemon.cosmoem.cry": {
+        "sounds": ["cobblemon:pokemon/cosmoem/cosmoem_cry.ogg"]
+    },
+    "pokemon.deoxys.cry": {
+        "sounds": [ "cobblemon:pokemon/deoxys/deoxys" ]
+    },
+    "pokemon.deoxysattack.cry": {
+        "sounds": [ "cobblemon:pokemon/deoxysattack/deoxys" ]
+    },
+    "pokemon.deoxysdefense.cry": {
+        "sounds": [ "cobblemon:pokemon/deoxysdefense/deoxys" ]
+    },
+    "pokemon.deoxysspeed.cry": {
+        "sounds": [ "cobblemon:pokemon/deoxysspeed/deoxys" ]
+    },
+    "pokemon.ironbundle.cry": {
+        "sounds": [ "cobblemon:pokemon/ironbundle/ironbundle" ]
+    },
+    "pokemon.slitherwing.cry": {
+        "sounds": [ "cobblemon:pokemon/slitherwing/slitherwing" ]
+    },
+    "pokemon.axew.cry": {
+        "sounds": [ "cobblemon:pokemon/axew/axew" ]
+    },
+    "pokemon.fraxure.cry": {
+        "sounds": [ "cobblemon:pokemon/fraxure/fraxure" ]
+    },
+    "pokemon.haxorus.cry": {
+        "sounds": [ "cobblemon:pokemon/haxorus/haxorus" ]
+    }
+}

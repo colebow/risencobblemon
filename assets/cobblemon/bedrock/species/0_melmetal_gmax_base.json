@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:melmetal_gmax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:melmetal_gmax",
+      "model": "cobblemon:melmetal_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/melmetal/melmetal_gmax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "poser": "cobblemon:melmetal_gmax",
+      "model": "cobblemon:melmetal_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/melmetal/melmetal_gmax.png",
+      "layers": []
+    }
+  ]
+}

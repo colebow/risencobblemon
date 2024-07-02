@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:metagross",
+    "implemented": true,
+  "evolutions": [
+  {
+    "id": "metagross_megametagross",
+    "variant": "item_interact",
+    "result": "megametagross",
+    "consumeHeldItem": false,
+    "requirements": [{
+      "variant": "held_item",
+      "itemCondition": "lackingmegas:key_stone"
+    }],
+    "requiredContext": "lackingmegas:mega_ring"
+  }
+]
+}

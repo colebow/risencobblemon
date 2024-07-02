@@ -1,0 +1,73 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.meltan.ground_idle": {
+			"loop": true,
+			"bones": {
+				"tail": {
+					"rotation": [17, 0, 0],
+					"position": [0, -0.1, 0.5]
+				},
+				"lefthand": {
+					"rotation": [0, 0, -22.5],
+					"position": [0.5, 0.1, 0]
+				},
+				"righthand": {
+					"rotation": [0, 0, 32],
+					"position": [-0.4, 0.2, 0]
+				},
+				"expression": {
+					"scale": 0.01
+				},
+				"bone": {
+					"rotation": [44, 0, 0],
+					"position": [0, 0.2, 0.4]
+				},
+				"bone2": {
+					"rotation": [-30, 0, 0],
+					"position": [0, -0.1, 0.2]
+				}
+			}
+		},
+		"animation.meltan.ground_walk": {
+			"loop": true,
+			"bones": {
+				"tail": {
+					"rotation": [17, 0, 0],
+					"position": [0, -0.1, 0.5]
+				},
+				"lefthand": {
+					"rotation": [0, 0, -22.5],
+					"position": [0.5, 0.1, 0]
+				},
+				"righthand": {
+					"rotation": [0, 0, 32],
+					"position": [-0.4, 0.2, 0]
+				},
+				"bone": {
+					"rotation": [44, 0, 0],
+					"position": [0, 0.2, 0.4]
+				},
+				"bone2": {
+					"rotation": [-30, 0, 0],
+					"position": [0, -0.1, 0.2]
+				},
+				"expression": {
+					"scale": 0.01
+				}
+			}
+		},
+		"animation.meltan.blink": {
+			"animation_length": 0.125,
+			"bones": {
+				"neutral": {
+					"scale": {
+						"0.0": [1, 0, 1],
+						"0.0833": [1, 0.1, 1],
+						"0.125": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

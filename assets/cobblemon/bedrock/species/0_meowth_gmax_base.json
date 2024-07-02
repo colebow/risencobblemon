@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:meowth_gmax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+      ],
+      "poser": "cobblemon:meowth_gmax",
+      "model": "cobblemon:meowth_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/meowth/meowth_gmax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "poser": "cobblemon:meowth_gmax",
+      "model": "cobblemon:meowth_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/meowth/meowth_gmax.png",
+      "layers": []
+    }
+  ]
+}

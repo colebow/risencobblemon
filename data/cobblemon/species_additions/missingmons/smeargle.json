@@ -1,0 +1,8 @@
+{    "target": "cobblemon:smeargle",
+"baseScale": 0.7,
+  "hitbox": {
+    "width": 0.8,
+    "height": 1,
+    "fixed": false
+  }
+}

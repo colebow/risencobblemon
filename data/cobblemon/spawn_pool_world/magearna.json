@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+      {
+          "id": "magearna-1",
+          "pokemon": "magearna",
+          "presets": [],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "ultra-rare",
+          "level": "70",
+          "weight": 0.1,
+          "condition": {
+              "biomes": [
+                  "#cobblemon:is_overworld"
+              ],
+      "neededNearbyBlocks": [
+                  "cobblemon:pc"
+              ]
+          }
+      }
+  ]
+}

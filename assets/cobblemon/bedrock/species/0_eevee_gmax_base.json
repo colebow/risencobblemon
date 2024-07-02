@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:eevee_gmax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+      ],
+      "poser": "cobblemon:eevee_gmax",
+      "model": "cobblemon:eevee_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/eevee/eevee_gmax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "poser": "cobblemon:eevee_gmax",
+      "model": "cobblemon:eevee_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/eevee/eevee_gmax.png",
+      "layers": []
+    }
+  ]
+}

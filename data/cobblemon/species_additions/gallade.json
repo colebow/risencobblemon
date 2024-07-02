@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:gallade",
+    "implemented": true,
+  "evolutions": [
+  {
+    "id": "gallade_megagallade",
+    "variant": "item_interact",
+    "result": "megagallade",
+    "consumeHeldItem": false,
+    "requirements": [{
+      "variant": "held_item",
+      "itemCondition": "lackingmegas:key_stone"
+    }],
+    "requiredContext": "lackingmegas:mega_ring"
+  }
+]
+}

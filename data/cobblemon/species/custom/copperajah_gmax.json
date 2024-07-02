@@ -1,0 +1,166 @@
+{
+  "name": "CopperajahGmax",
+  "nationalPokedexNumber": 879,
+  "primaryType": "steel",
+  "abilities": [
+    "sheerforce",
+    "h:heavymetal"
+  ],
+  "baseStats": {
+    "hp": 244,
+    "attack": 130,
+    "defence": 69,
+    "special_attack": 80,
+    "special_defence": 69,
+    "speed": 30
+  },
+  "catchRate": 90,
+  "maleRatio": 0.5,
+  "shoulderMountable": false,
+  "moves": [
+    "1:growl",
+    "1:rocksmash",
+    "1:rollout",
+    "1:tackle",
+    "15:bulldoze",
+    "20:stomp",
+    "25:irondefense",
+    "30:dig",
+    "37:strength",
+    "44:ironhead",
+    "51:playrough",
+    "58:highhorsepower",
+    "65:superpower",
+    "tm:attract",
+    "tm:bodypress",
+    "tm:bodyslam",
+    "tm:brickbreak",
+    "tm:brutalswing",
+    "tm:bulldoze",
+    "tm:dig",
+    "tm:earthpower",
+    "tm:earthquake",
+    "tm:endure",
+    "tm:facade",
+    "tm:flashcannon",
+    "tm:fling",
+    "tm:gigaimpact",
+    "tm:heatcrash",
+    "tm:heavyslam",
+    "tm:highhorsepower",
+    "tm:hyperbeam",
+    "tm:irondefense",
+    "tm:ironhead",
+    "tm:megakick",
+    "tm:mudshot",
+    "tm:outrage",
+    "tm:payback",
+    "tm:playrough",
+    "tm:powerwhip",
+    "tm:protect",
+    "tm:rest",
+    "tm:revenge",
+    "tm:rockblast",
+    "tm:rockslide",
+    "tm:rocktomb",
+    "tm:round",
+    "tm:sandstorm",
+    "tm:scaryface",
+    "tm:screech",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:snore",
+    "tm:stealthrock",
+    "tm:steelbeam",
+    "tm:stompingtantrum",
+    "tm:stoneedge",
+    "tm:substitute",
+    "tm:superpower",
+    "tm:takedown",
+    "tm:taunt",
+    "tm:terablast",
+    "tm:workup",
+    "tm:zenheadbutt",
+    "tutor:steelbeam",
+    "tutor:steelroller"
+  ],
+  "labels": [
+    "gen8","gmax"
+  ],
+  "pokedex": [
+    "cobblemon.species.copperajahgmax.name",
+    "cobblemon.species.copperajahgmax.desc"
+  ],
+  "preEvolution": "copperajah",
+  "evolutions": [
+{
+      "id": "copperajah_gmax_copperajah",
+      "variant": "level_up",
+      "result": "copperajah",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "heavyslam"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 70
+        }
+      ]
+    }
+],
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 3,
+    "height": 3,
+    "fixed": false
+  },
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 2,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 0
+  },
+  "height": 30,
+  "weight": 6500,
+  "aspects": [],
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:exp_candy_xs",
+        "quantityRange": "1-3",
+        "percentage": 40.0
+      },
+      {
+        "item": "cobblemon:exp_candy_s",
+        "quantityRange": "1-3",
+        "percentage": 40.0
+      },
+       {
+        "item": "cobblemon:exp_candy_m",
+        "quantityRange": "1-3",
+        "percentage": 40.0
+      },
+       {
+        "item": "cobblemon:exp_candy_l",
+        "quantityRange": "1-3",
+        "percentage": 30.0
+      },
+             {
+        "item": "cobblemon:exp_candy_xl",
+        "quantityRange": "1-3",
+        "percentage": 20.0
+      },
+             {
+        "item": "cobblemon:rare_candy",
+        "quantityRange": "1-3",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

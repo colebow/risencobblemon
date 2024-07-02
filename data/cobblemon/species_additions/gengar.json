@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:gengar",
+    "implemented": true,
+  "evolutions": [
+  {
+    "id": "gengar_megagangar",
+    "variant": "item_interact",
+    "result": "megagengar",
+    "consumeHeldItem": false,
+    "requirements": [{
+      "variant": "held_item",
+      "itemCondition": "lackingmegas:key_stone"
+    }],
+    "requiredContext": "lackingmegas:mega_ring"
+  }
+]
+}

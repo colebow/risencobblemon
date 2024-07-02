@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:butterfree_gmax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:butterfree_gmax",
+      "model": "cobblemon:butterfree_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/butterfree/butterfree_gmax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "poser": "cobblemon:butterfree_gmax",
+      "model": "cobblemon:butterfree_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/butterfree/butterfree_gmax.png",
+      "layers": []
+    }
+  ]
+}
