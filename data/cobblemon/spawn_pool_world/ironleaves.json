@@ -10,7 +10,7 @@
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "50-70",
-      "weight": 0.5,
+      "weight": 0.1,
       "condition": {
         "biomes": [ 
           "#cobblemon:floral"
@@ -27,7 +27,7 @@
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "50-70",
-      "weight": 1,
+      "weight": 0.1,
       "condition": {
         "biomes": [ 
           "#minecraft:is_end"
