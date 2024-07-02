@@ -136,7 +136,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-30",
-            "weight": 20.0,
+            "weight": 14,
             "condition": {
                 "biomes": [
                     "#minecraft:is_end"
