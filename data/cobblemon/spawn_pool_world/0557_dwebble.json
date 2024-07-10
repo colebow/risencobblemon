@@ -4,19 +4,19 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "miraidon-1",
-            "pokemon": "miraidon",
+            "id": "dwebble-1",
+            "pokemon": "dwebble",
             "presets": [
-                "end_city"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "ultra-rare",
-            "level": "70",
-            "weight": 0.1,
+            "bucket": "common",
+            "level": "8-33",
+            "weight": 9.0,
             "condition": {
                 "biomes": [
-                    "#minecraft:is_end"
+                    "#cobblemon:is_badlands"
                 ]
             }
         }
