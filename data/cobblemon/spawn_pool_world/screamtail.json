@@ -8,7 +8,7 @@
             "pokemon": "screamtail",
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "ultra-rare",
+            "bucket": "rare",
             "level": "48-80",
             "weight": 11.0,
             "condition": {
