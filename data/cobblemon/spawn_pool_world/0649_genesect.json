@@ -4,36 +4,32 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "jirachi-1",
-      "pokemon": "jirachi",
+      "id": "genesect-1",
+      "pokemon": "genesect",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "55-60",
-      "weight": 0.05,
+      "level": "48-80",
+      "weight": 0.1,
       "condition": {
         "canSeeSky": true,
-        "biomes": [ 
-          "#cobblemon:is_mountain",
-          "#cobblemon:is_hills"
-           ], 
-          "timeRange": "morning"
+		"structures": [
+	  "#minecraft:village"
+	]
       }
     },
     {
-      "id": "jirachi-2",
-      "pokemon": "jirachi",
-      "presets": [
-        "natural"
-    ],
+      "id": "genesect-2",
+      "pokemon": "genesect",
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "55-60",
+      "level": "48-60",
       "weight": 0.1,
       "condition": {
-        "biomes": [ 
-          "#minecraft:is_end"
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_plains"
         ]
       }
     }

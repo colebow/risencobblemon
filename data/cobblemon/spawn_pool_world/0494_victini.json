@@ -1,48 +1,47 @@
 {
   "enabled": true,
-  "neededInstalledMods": [],
+  "neededInstalledMods": [
+  ],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-victini-1",
+      "pokemon": "victini",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "70-100",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
           "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:eroded_badlands",
+          "minecraft:savanna"
         ],
-        "key_item": "red_orb"
+        "key_item": "liberty_pass"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-victini-2",
+      "pokemon": "victini",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "70-100",
       "weight": 0.1,
       "condition": {
         "biomes": [
           "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_thermal",
+          "#cobblemon:is_savanna"
         ],
-        "key_item": "red_orb"
+        "key_item": "liberty_pass"
       }
     }
   ]

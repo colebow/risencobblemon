@@ -4,45 +4,43 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-mew-1",
+      "pokemon": "mew",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "30-70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "#cobblemon:is_jungle",
+          "minecraft:bamboo_jungle",
+          "minecraft:jungle"
         ],
-        "key_item": "red_orb"
+        "key_item": "old_sea_map"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-mew-2",
+      "pokemon": "mew",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "30-70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_lush",
+          "#cobblemon:is_bamboo"
         ],
-        "key_item": "red_orb"
+        "key_item": "old_sea_map"
       }
     }
   ]

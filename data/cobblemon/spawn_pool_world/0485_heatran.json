@@ -4,8 +4,8 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-cresselia-1",
-      "pokemon": "cresselia",
+      "id": "mythsandlegends-heatran-1",
+      "pokemon": "heatran",
       "presets": ["natural"],
       "type": "pokemon",
       "context": "grounded",
@@ -14,14 +14,11 @@
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "minecraft:mushroom_fields",
-          "minecraft:mushroom_field_shore",
-          "minecraft:snowy_tundra"
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "minecraft:crimson_forest"
         ],
-        "moonPhase": 1,
-        "canSeeSky": true,
-        "timeRange": "night",
-        "key_item": "lunar_feather"
+        "key_item": "magma_stone"
       }
     }
   ]

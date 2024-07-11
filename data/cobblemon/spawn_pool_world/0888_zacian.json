@@ -1,45 +1,46 @@
 {
   "enabled": true,
-  "neededInstalledMods": [],
+  "neededInstalledMods": [
+  ],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-darkrai-1",
-      "pokemon": "darkrai",
+      "id": "mythsandlegends-zacian-1",
+      "pokemon": "zacian",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "40-50",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "minecraft:dark_forest",
-          "minecraft:swamp"
+          "minecraft:flower_forest",
+          "minecraft:meadow"
         ],
-        "key_item": "member_card"
+        "key_item": "rusted_sword"
       }
     },
     {
-      "id": "mythsandlegends-darkrai-2",
-      "pokemon": "darkrai",
+      "id": "mythsandlegends-zacian-2",
+      "pokemon": "zacian",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "40-50",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_spooky",
-          "#cobblemon:is_dark",
-          "#cobblemon:is_deep_dark"
+          "#cobblemon:is_magical",
+          "#cobblemon:is_forest",
+          "#cobblemon:is_highlands"
         ],
-        "key_item": "member_card"
+        "key_item": "rusted_sword"
       }
     }
   ]

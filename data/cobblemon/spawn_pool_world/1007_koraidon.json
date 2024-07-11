@@ -4,45 +4,44 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-koraidon-1",
+      "pokemon": "koraidon",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "68-72",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
           "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:eroded_badlands",
+          "minecraft:savanna",
+          "minecraft:savanna_plateau"
         ],
-        "key_item": "red_orb"
+        "key_item": "scarlet_book"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-koraidon-2",
+      "pokemon": "koraidon",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "68-.72",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_savanna",
+          "#cobblemon:is_plateau",
+          "#cobblemon:is_mountain"
         ],
-        "key_item": "red_orb"
+        "key_item": "scarlet_book"
       }
     }
   ]
