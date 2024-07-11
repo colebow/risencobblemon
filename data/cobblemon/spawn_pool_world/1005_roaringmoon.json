@@ -9,7 +9,7 @@
             "presets": [],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "ultra-rare",
+            "bucket": "rare",
             "level": "65-75",
             "weight": 1.0,
             "condition": {
