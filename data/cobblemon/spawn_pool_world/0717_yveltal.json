@@ -4,45 +4,41 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-yveltal-1",
+      "pokemon": "yveltal",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:dark_forest",
+          "minecraft:swamp"
         ],
-        "key_item": "red_orb"
+        "key_item": "cocoon_of_destruction"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-yveltal-2",
+      "pokemon": "yveltal",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_spooky",
+          "#cobblemon:is_tundra"
         ],
-        "key_item": "red_orb"
+        "key_item": "cocoon_of_destruction"
       }
     }
   ]

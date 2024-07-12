@@ -4,45 +4,45 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-raikou-1",
+      "pokemon": "raikou",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50-60",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:plains",
+          "minecraft:savanna",
+          "minecraft:savanna_plateau"
         ],
-        "key_item": "red_orb"
+        "key_item": "clear_bell",
+        "thunder_stone_requirement": "3"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-raikou-2",
+      "pokemon": "raikou",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50-60",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_plains",
+          "#cobblemon:is_grassland",
+          "#cobblemon:is_arid"
         ],
-        "key_item": "red_orb"
+        "key_item": "clear_bell",
+        "thunder_stone_requirement": "3"
       }
     }
   ]

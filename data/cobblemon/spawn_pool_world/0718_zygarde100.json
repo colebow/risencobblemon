@@ -4,45 +4,45 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-zygarde-1",
+      "pokemon": "zygarde",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:birch_forest",
+          "minecraft:forest",
+          "minecraft:jungle",
+          "minecraft:mangrove_swamp",
+          "minecraft:swamp"
         ],
-        "key_item": "red_orb"
+        "key_item": "zygarde_cube"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-zygarde-2",
+      "pokemon": "zygarde",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_forest",
+          "#cobblemon:is_cave",
+          "#cobblemon:is_swamp"
         ],
-        "key_item": "red_orb"
+        "key_item": "zygarde_cube"
       }
     }
   ]

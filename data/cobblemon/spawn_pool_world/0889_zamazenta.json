@@ -1,45 +1,46 @@
 {
   "enabled": true,
-  "neededInstalledMods": [],
+  "neededInstalledMods": [
+  ],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-darkrai-1",
-      "pokemon": "darkrai",
+      "id": "mythsandlegends-zamazenta-1",
+      "pokemon": "zamazenta",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "40-50",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "minecraft:dark_forest",
-          "minecraft:swamp"
+          "minecraft:taiga",
+          "minecraft:windswept_forest"
         ],
-        "key_item": "member_card"
+        "key_item": "rusted_shield"
       }
     },
     {
-      "id": "mythsandlegends-darkrai-2",
-      "pokemon": "darkrai",
+      "id": "mythsandlegends-zamazenta-2",
+      "pokemon": "zamazenta",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "40-50",
+      "level": "70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_spooky",
-          "#cobblemon:is_dark",
-          "#cobblemon:is_deep_dark"
+          "#cobblemon:is_plateau",
+          "#cobblemon:is_savanna",
+          "#cobblemon:is_highlands"
         ],
-        "key_item": "member_card"
+        "key_item": "rusted_shield"
       }
     }
   ]

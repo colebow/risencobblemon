@@ -4,45 +4,41 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-jirachi-1",
+      "pokemon": "jirachi",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "5-70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:mushroom_fields",
+          "minecraft:windswept_gravelly_hills"
         ],
-        "key_item": "red_orb"
+        "key_item": "bonus_disk"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-jirachi-2",
+      "pokemon": "jirachi",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "5-70",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_magical",
+          "#cobblemon:is_sparse"
         ],
-        "key_item": "red_orb"
+        "key_item": "bonus_disk"
       }
     }
   ]

@@ -4,19 +4,17 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "tapufini-1",
-            "pokemon": "tapufini",
+            "id": "buzzwole-1",
+            "pokemon": "buzzwole",
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
-            "level": "50-70",
+            "level": "70",
             "weight": 0.1,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_forest",
-                    "#cobblemon:is_jungle",
-                    "#minecraft:is_beach"
+                    "#cobblemon:is_swamp"
                 ]
 			}
 		}

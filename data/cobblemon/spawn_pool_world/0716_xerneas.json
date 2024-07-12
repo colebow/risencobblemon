@@ -4,45 +4,43 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-xerneas-1",
+      "pokemon": "xerneas",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:flower_forest",
+          "minecraft:forest",
+          "minecraft:meadow"
         ],
-        "key_item": "red_orb"
+        "key_item": "sapling_of_life"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-xerneas-2",
+      "pokemon": "xerneas",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_forest",
+          "#cobblemon:is_magical",
+          "#cobblemon:is_floral"
         ],
-        "key_item": "red_orb"
+        "key_item": "sapling_of_life"
       }
     }
   ]

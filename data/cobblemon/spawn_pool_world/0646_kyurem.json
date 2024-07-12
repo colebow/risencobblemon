@@ -4,45 +4,43 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-kyurem-1",
+      "pokemon": "kyurem",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "75",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:frozen_peaks",
+          "minecraft:snowy_slopes",
+          "minecraft:snowy_taiga"
         ],
-        "key_item": "red_orb"
+        "key_item": "dna_splicer"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-kyurem-2",
+      "pokemon": "kyurem",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "75",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_freezing",
+          "#cobblemon:is_glacial",
+          "#cobblemon:is_snowy_forest"
         ],
-        "key_item": "red_orb"
+        "key_item": "dna_splicer"
       }
     }
   ]

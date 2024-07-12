@@ -4,45 +4,48 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-entei-1",
+      "pokemon": "entei",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50-60",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
           "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "minecraft:eroded_badlands",
+          "minecraft:nether_wastes",
+          "minecraft:savanna",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest"
         ],
-        "key_item": "red_orb"
+        "key_item": "clear_bell",
+        "fire_stone_requirement": "3"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-entei-2",
+      "pokemon": "entei",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "50-60",
       "weight": 0.1,
       "condition": {
         "biomes": [
           "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_thermal",
+          "#cobblemon:is_badlands"
         ],
-        "key_item": "red_orb"
+        "key_item": "clear_bell",
+        "fire_stone_requirement": "3"
       }
     }
   ]

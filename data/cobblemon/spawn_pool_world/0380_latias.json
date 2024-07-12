@@ -4,45 +4,43 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "mythsandlegends-groudon-1",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-latias-1",
+      "pokemon": "latias",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "30-50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "minecraft:badlands",
-          "minecraft:desert",
-          "minecraft:eroded_badlands"
+          "terralith:mirage_isles",
+          "minecraft:flower_forest",
+          "minecraft:birch_forest"
         ],
-        "key_item": "red_orb"
+        "key_item": "eon_ticket"
       }
     },
     {
-      "id": "mythsandlegends-groudon-2",
-      "pokemon": "groudon",
+      "id": "mythsandlegends-latias-2",
+      "pokemon": "latias",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "45-70",
+      "level": "30-50",
       "weight": 0.1,
       "condition": {
         "biomes": [
-          "#cobblemon:is_volcanic",
-          "#cobblemon:is_desert",
-          "#cobblemon:is_arid",
-          "#cobblemon:is_thermal"
+          "#cobblemon:is_coast",
+          "#cobblemon:is_temperate",
+          "#cobblemon:is_beach"
         ],
-        "key_item": "red_orb"
+        "key_item": "eon_ticket"
       }
     }
   ]
