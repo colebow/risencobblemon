@@ -50,22 +50,6 @@
                     "minecraft:lightning_rod"
                 ]
             }
-        },
-        {
-            "id": "minum-3",
-            "pokemon": "minum",
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "uncommon",
-            "level": "20-44",
-            "weight": 3.0,
-            "condition": {
-                "biomes": [
-                    "betterend:blossoming_spires",
-                    "betterend:glowing_grasslands",
-                    "betterend:lantern_woods"
-                ]
-            }
         }
     ]
 }

@@ -55,23 +55,6 @@
                     "#cobblemon:is_floral"
                 ]
             }
-        },
-        {
-            "id": "wigglytuff-3",
-            "pokemon": "wigglyuff",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "26-48",
-            "weight": 0.9,
-            "condition": {
-                "biomes": [
-                    "betterend:blossoming_spires"
-                ]
-            }
         }
     ]
 }
