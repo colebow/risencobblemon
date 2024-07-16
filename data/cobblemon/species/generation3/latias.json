@@ -3,7 +3,7 @@
   "nationalPokedexNumber": 380,
   "name": "latias",
   "pokedex": [
-    "cobblemon.species.latias.desc",
+    "cobblemon.species.latias.desc"
   ],
   "height": 14,
   "weight": 400,
@@ -69,7 +69,9 @@
   "baseExperienceYield": 300,
   "experienceGroup": "slow",
   "eggCycles": 120,
-  "eggGroups": ["undiscovered"],
+  "eggGroups": [
+    "undiscovered"
+  ],
   "baseFriendship": 90,
   "evYield": {
     "special_defence": 3

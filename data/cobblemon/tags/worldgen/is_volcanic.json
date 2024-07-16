@@ -3,10 +3,6 @@
   "values": [
     {
       "id": "regions_unexplored:scorching_caves"
-    }
-    {
-      "id": "terralith:cave/mantle_caves",
-      "required": false
     },
 	{
       "id": "terralith:volcanic_crater",

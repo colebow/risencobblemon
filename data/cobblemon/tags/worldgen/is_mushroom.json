@@ -7,12 +7,13 @@
       "id": "#c:mushroom",
       "required": false
     },
-	{
+    {
       "id": "#forge:is_mushroom",
       "required": false
     },
     {
       "id": "nyctophobia:deep_dark_forest",
+      "required": false
     },
     {
       "id": "regions_unexplored:bioshroom_caves",
@@ -27,10 +28,6 @@
       "required": false
     },
     {
-      "id": "terralith:cave/fungal_caves",
-      "required": false
-    },
-	{
       "id": "terralith:mirage_isles",
       "required": false
     },
