@@ -14,26 +14,36 @@
             "cobblemon:pokemon/dragapult/dragapult_cry"
         ]
     },
+    "pokemon.rattata_alolan.cry": {
+        "sounds": [
+            "cobblemon:pokemon/rattata/rattata_cry"
+        ]
+    },
+    "pokemon.petilil_hisui_bias.cry": {
+        "sounds": [
+            "cobblemon:pokemon/petilil/petilil_cry"
+        ]
+    },
     "pokemon.roaringmoon.cry": {
-        "sounds": ["cobblemon:pokemon/roaringmoon/roaringmoon_cry.ogg"]
+        "sounds": ["cobblemon:pokemon/roaringmoon/roaringmoon_cry"]
     },
     "pokemon.cosmog.cry": {
-        "sounds": ["cobblemon:pokemon/cosmog/cosmog_cry.ogg"]
+        "sounds": ["cobblemon:pokemon/cosmog/cosmog_cry"]
     },
     "pokemon.cosmoem.cry": {
-        "sounds": ["cobblemon:pokemon/cosmoem/cosmoem_cry.ogg"]
+        "sounds": ["cobblemon:pokemon/cosmoem/cosmoem_cry"]
     },
     "pokemon.deoxys.cry": {
         "sounds": [ "cobblemon:pokemon/deoxys/deoxys" ]
     },
     "pokemon.deoxysattack.cry": {
-        "sounds": [ "cobblemon:pokemon/deoxysattack/deoxys" ]
+        "sounds": [ "cobblemon:pokemon/deoxys/deoxys" ]
     },
     "pokemon.deoxysdefense.cry": {
-        "sounds": [ "cobblemon:pokemon/deoxysdefense/deoxys" ]
+        "sounds": [ "cobblemon:pokemon/deoxys/deoxys" ]
     },
     "pokemon.deoxysspeed.cry": {
-        "sounds": [ "cobblemon:pokemon/deoxysspeed/deoxys" ]
+        "sounds": [ "cobblemon:pokemon/deoxys/deoxys" ]
     },
     "pokemon.ironbundle.cry": {
         "sounds": [ "cobblemon:pokemon/ironbundle/ironbundle" ]
