@@ -7,18 +7,18 @@
       "id": "walrein-1",
       "pokemon": "walrein",
       "presets": [
-                "natural"
-            ],
+        "natural"
+      ],
       "type": "pokemon",
       "context": "grounded",
       "bucket": "rare",
       "level": "40-50",
-      "weight": .75,
+      "weight": 0.75,
       "condition": {
         "canSeeSky": true,
         "biomes": [
-                    "#cobblemon:is_tundra"
-                ]
+          "#cobblemon:is_tundra"
+        ]
       }
     }
   ]

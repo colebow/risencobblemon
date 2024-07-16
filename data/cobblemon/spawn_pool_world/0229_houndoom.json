@@ -4,7 +4,7 @@
     "neededUninstalledMods": [],
     "spawns": [   
     {
-       "id": houndoom1",
+       "id": "houndoom1",
        "pokemon": "houndoom",
        "presets": [
            "nether_structures"
