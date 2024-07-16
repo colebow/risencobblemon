@@ -32,7 +32,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "70-100",
-            "weight": 10.0,
+            "weight": 0.1,
             "condition": {
                 "structures": [
                     "hiddenmons:z_cave"
